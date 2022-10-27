@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Montserrat, sans serif';
+  src: url('../fonts/montserrat/Montserrat-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold, sans serif';
+  src: url('../fonts/montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Thin, sans serif';
+  src: url('../fonts/roboto/Roboto-Thin.ttf');
+}
+
+

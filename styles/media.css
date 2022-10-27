@@ -1,0 +1,231 @@
+@media screen and (max-width: 1400px){
+
+.header {
+  background-image: url("../img/Bitmap.png");
+  /* width: 100%; */
+  height: 700px;
+}
+}
+/*--------------------------------------------------------------------------*/
+@media screen and (max-width: 1020px){
+
+  .header {
+    background-image: url("../img/Bitmap2.png");
+    width: 100%;
+    height: 700px;
+  }
+
+  .title-text{
+    width: 90%;
+  }
+
+  main{
+    max-width: 748px;
+    /* background-color: rgb(220, 20, 238); */
+    margin: 0 auto;
+  }
+
+  .figure-1__item_1 {
+    width: 236px;
+  }
+  .figure-1__item_1.item_1-bground-1 {
+    background-image: url("../img/Step1-2.png");
+  }
+  .figure-1__item_1.item_1-bground-2 {
+    background-image: url("../img/Step2-2.png");
+  }
+  .figure-1__item_1.item_1-bground-3 {
+    background-image: url("../img/Step3-2.png");
+  }
+
+.figure_2{
+    width: 300px;
+    /* border: 2px solid red; */
+  }
+
+.figure-3_1{
+  width: 236px;
+  height: 310px;
+  }
+.figure-3_1.bground-3_1{
+  background-image: url('../img/Sport2.png');
+}
+.figure-3_1.bground-3_2{
+  background-image: url('../img/Healath2.png');
+}
+.figure-3_1.bground-3_3{
+  background-image: url('../img/Extreme2.png');
+}
+.figure-3_1.bground-3_4{
+  background-image: url('../img/Games2.png');
+}
+.figure-3_1.bground-3_5{
+  background-image: url('../img/Culture2.png');
+  width: 490px;
+}
+.figure-3_1.bground-3_6{
+  background-image: url('../img/Copy2.png');
+  width: 490px;
+}
+.figure-3_1.bground-3_7{
+  background-image: url('../img/Salfy2.png');
+}
+ul{
+  margin-left: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+@media screen and (max-width: 767px){
+
+  .header {
+    background-image: url("../img/Bitmap3.png");
+    width: 100%;
+    height: 540px;
+  }
+
+  /* .title-text{
+    text-align: center;
+    width: 700px;
+  } */
+
+  .section-1{
+    height: 60px;
+    margin-bottom: 10px;
+  }
+  
+
+main{
+  width: 320px;
+  margin: 0 auto;
+}
+
+
+.figure__bground{
+  height: 540px;
+  width: 310px;
+}
+.figure__bground-1{
+  background-image: url('../img/Bitmap3.png');
+  width: 320px;
+}
+
+.figure-3_1{
+  width: 300px;
+  height: 120px;
+  }
+.figure-3_1.bground-3_1{
+  background-image: url('../img/Sport3.png');
+}
+.figure-3_1.bground-3_2{
+  background-image: url('../img/Healath3.png');
+}
+.figure-3_1.bground-3_3{
+  background-image: url('../img/Extreme3.png');
+}
+.figure-3_1.bground-3_4{
+  background-image: url('../img/Games3.png');
+}
+.figure-3_1.bground-3_5{
+  background-image: url('../img/Culture3.png');
+  width: 300px;
+}
+.figure-3_1.bground-3_6{
+  background-image: url('../img/Copy3.png');
+  width: 300px;
+}
+.figure-3_1.bground-3_7{
+  background-image: url('../img/Salfy3.png');
+}
+.box{
+  text-align: center;
+}
+
+.box-item{
+  width: 60%;
+  margin: 0 auto;
+}
+
+ul{
+  margin-left: -20px;
+  margin-top: -10px;
+}
+
+li{
+  display: inline;
+}
+
+.button3a{
+  margin-top: 10px;
+}
+
+
+.figure-1__item_1 {
+  height: 240px;
+  width: 300px;
+  position: relative;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.figure-1__item_1.item_1-bground-1 {
+  background-image: url("../img/Step1-3.png");
+}
+.figure-1__item_1.item_1-bground-2 {
+  background-image: url("../img/Step2-3.png");
+}
+.figure-1__item_1.item_1-bground-3 {
+  background-image: url("../img/Step3-3.png");
+}
+
+.nav__box-1{
+  display: none;
+}
+
+nav {
+  top: 25px;
+  left: 25%;
+  width: 70%;
+}
+
+.title-text__main{
+  font-size: 1.5em;
+  font-weight: 600;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.title-text__second{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+
+.title-text{
+  text-align: center;
+  width: 100%;
+}
+
+.title__section, .title__section2{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 24px;
+}
+
+.figure-1__item_1{
+  margin-bottom: 10px;
+}
+}
+
+
+
+/*--------------------------------------------------------------------------*/
+
+
+
+
+
+
